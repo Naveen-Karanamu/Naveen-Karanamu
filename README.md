@@ -1,4 +1,4 @@
-- 👋 Hi there everyone, myself Naveen Kumar
+- 👋 Hey there everyone, myself Naveen Kumar
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
 - 🌱 I’m currently learning Web Development
