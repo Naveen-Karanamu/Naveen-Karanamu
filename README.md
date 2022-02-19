@@ -1,7 +1,6 @@
 - 👋 Hey there everyone, myself Naveen Kumar
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
-- 🌱 I’m currently working on Backend
 - 💞️ I’m looking to collaborate on Projects
 - 💬 Ask me about C, C++, Python, MERN Stack
 - 📫 You can reach me on [LinkedIN: @Naveen Karanamu](https://www.linkedin.com/in/naveen-karanamu-672604208/), 
