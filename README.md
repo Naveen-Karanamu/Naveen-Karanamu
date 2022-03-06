@@ -1,6 +1,5 @@
 
  <h1 align="center">Hi 👋, I'm Naveen Kumar Karanamu</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-karanamu&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-karanamu" /> </p>
 
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
@@ -25,3 +24,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Karanamu&theme=black-ice&hide_border=true&stroke=0000e6&background=262626)
 ![](https://activity-graph.herokuapp.com/graph?username=Naveen-Karanamu&bg_color=262626&color=ffff&line=0000e6&point=ded7d9&hide_border=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-karanamu&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-karanamu" /> </p>
