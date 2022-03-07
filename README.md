@@ -4,7 +4,7 @@
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
 - 💻 Currently working on Full Stack
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about C, C++, Python, MERN Stack
  
 
