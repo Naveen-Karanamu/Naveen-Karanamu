@@ -1,5 +1,4 @@
-
- <h1 align="center">Hi 👋, I'm Naveen Kumar Karanamu</h1>
+ <h1 align="center">Hey! <img src="Images/wave.gif" width="30px" height="auto">, I'm Naveen Kumar Karanamu</h1>
 
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
