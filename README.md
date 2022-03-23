@@ -2,7 +2,7 @@
 
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
-- 💻 Currently working on Web Dev
+- 💻 Currently working on Full Stack Web Dev
 - 💞️ I’m looking to collaborate on Full Stack Web Development Projects
 - 💬 Ask me about C, C++, Python, MERN Stack
  
