@@ -3,7 +3,7 @@
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
 - 💻 Currently working on Machine Learning
-- 💞️ I’m looking to collaborate on Web Dev & Data based Projects
+- 🤝🏼 I’m looking to collaborate on Web Dev & Data based Projects
 - 💬 Ask me about C, C++, Python, MERN Stack
  
 
