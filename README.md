@@ -1,4 +1,4 @@
- <h1 align="center">Hey there! <img src="Assets\hand-wave.gif" width="30px" height="30px">, I'm Naveen Kumar</h1>
+ <h1 align="center">Hey there! <img src="Assets\hand-wave.gif" width="30px" height="30px">, I'm Naveen Kumar 👨🏻‍💻</h1>
 
 - 😄 Pronounce He/Him
 - 👀 I’m interested in Computer's related stuffs
